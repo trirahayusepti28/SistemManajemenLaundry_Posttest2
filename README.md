@@ -6,7 +6,15 @@ NIM  : 2309116004
 
 # Penjelasan Program 
 
-Program ini adalah sistem manajemen laundry sederhana yang memungkinkan pengguna untuk mengelola layanan laundry, mencatat pesanan pelanggan, melacak status cucian, dan mengelola pembayaran. Program ini menggunakan bahasa pemrograman Java dan dibagi menjadi beberapa class dan package untuk memenuhi syarat yang diminta.
+Program Sistem Manajemen Laundry ini dirancang untuk mengelola pesanan layanan laundry dengan berbagai fitur menggunakan bahasa pemrograman Java. Program ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP), yaitu Inheritance, Encapsulation, Abstraction, Interface, dan Final keyword.
+
+### Fitur Utama:
+1. Tambah Pesanan: Pengguna dapat menambahkan pesanan laundry dengan memilih jenis layanan seperti Dry Cleaning atau Setrika. Setiap pesanan akan disimpan ke dalam daftar pesanan.
+2. Hapus Pesanan: Pengguna dapat menghapus pesanan berdasarkan ID pesanan yang dimasukkan.
+3. Tampilkan Semua Pesanan: Program dapat menampilkan daftar semua pesanan yang telah masuk beserta detail informasinya seperti nama pelanggan, jenis layanan, jenis kain (untuk Dry Cleaning), dan jenis pakaian (untuk Setrika).
+4. Perbarui Pesanan: Program juga memungkinkan pengguna untuk memperbarui jenis layanan pada pesanan yang telah ada berdasarkan ID pesanan.
+Keluar: Menyediakan opsi untuk keluar dari sistem.
+Konsep Pemrograman yang Diterapkan:
 
 # Deskripsi Program
 ## Menambah Pesanan (Create):
